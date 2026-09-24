@@ -121,7 +121,3 @@ Shipment: TRK-569A95FFB5
 ├── docker-compose.yml   # Servicio local de Cassandra
 └── requirements.txt     # Dependencias de Python
 ```
-
-## Autor
-
-**Andres Olvera** · [GitHub](https://github.com/AndressOlvera)
